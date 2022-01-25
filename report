@@ -10,4 +10,4 @@ job_name_1:
     only: 
         - schedules
     script: 
-        - python db.py
+        - python bot.py
